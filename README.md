@@ -53,7 +53,7 @@ I've been learning to code about 2 years in front-end dev and also a little back
 <div align="left">
 
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AlirezaFekri.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-fekri-8081402a6/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/](https://stackoverflow.com/users/14395340/alireza-fekri)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Alireza16113) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AlirezaFekri.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-fekri-8081402a6/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/14395340/alireza-fekri](https://stackoverflow.com/users/14395340/alireza-fekri)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Alireza16113) 
 <a href="https://discordapp.com/users/772535255784882207">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" />
 
